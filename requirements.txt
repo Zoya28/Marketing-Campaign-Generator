@@ -1,0 +1,6 @@
+streamlit
+langchain_huggingface
+langchain.prompts 
+langchain.prompts.few_shot
+langchain.prompts.example_selector
+dotenv
