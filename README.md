@@ -20,8 +20,8 @@ Responses are tailored based on:
 ---
 
 ## 📸 Preview
-
-*Coming soon... (You can add a screenshot of your app here later)*
+![App Prewiew](img/pro1.png)
+![App Prewiew](img/pro1.png)
 
 ---
 
