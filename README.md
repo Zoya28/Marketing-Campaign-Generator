@@ -85,8 +85,7 @@ This project uses the following environment variable:
 **Zoya Qureshi**  
 🎓 B.Tech – AI & Data Science  
 💼 AI Automation Engineer Intern @ VKAPS IT Solutions  
-📫 Email: zoyaqureshi28103@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+🔗 [LinkedIn](https://www.linkedin.com/Zoya28) | [GitHub](https://github.com/Zoya28)
 
 ---
 
