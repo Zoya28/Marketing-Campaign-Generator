@@ -28,7 +28,7 @@ Responses are tailored based on:
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/langchain-marketing-campaign.git
+git clone https://github.com/Zoya28/Marketing-Campaign-Generato.git
 cd langchain-marketing-campaign
 ```
 
