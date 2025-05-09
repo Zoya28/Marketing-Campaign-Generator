@@ -1,4 +1,3 @@
-```markdown
 # LangChain Marketing Campaign Generator
 
 This is a Streamlit-based AI app that generates intelligent, tone-adjusted responses for marketing-related queries using **LangChain** and **Mistral-7B LLM** hosted on HuggingFace.  
